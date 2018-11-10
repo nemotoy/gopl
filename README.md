@@ -1,5 +1,8 @@
 # exercise gopl
-http://www.gopl.io/
+http://www.gopl.io/  
+
+# github
+https://github.com/adonovan/gopl.io
 
 ## channel
 
